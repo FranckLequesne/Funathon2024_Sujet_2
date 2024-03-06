@@ -12,7 +12,7 @@ Réaliser un tableau de bord mensuel du trafic aérien en se servant directement
    - Utiliser les _dataTableOutput_ du package _DT_ pour afficher les données en tableau dynamique dans le panneau principal
 
 3. Faire la partie Serveur/BackEnd du serveur Shiny
-    -Relier les inputs et les outputs
+   - Relier les inputs et les outputs
 
 ## Remarques
 
