@@ -4,7 +4,7 @@ Réaliser un tableau de bord mensuel du trafic aérien en se servant directement
 
 ## Grandes parties
 
-1. Importer les données mensulle de trafi sur [data.gouv.fr](https://www.data.gouv.fr/fr/datasets/trafic-aerien-commercial-mensuel-francais-par-paire-daeroports-par-sens-depuis-1990/)
+1. Importer les données mensuelle de trafic sur [data.gouv.fr](https://www.data.gouv.fr/fr/datasets/trafic-aerien-commercial-mensuel-francais-par-paire-daeroports-par-sens-depuis-1990/)
 
 2. Faire la partie UI/FrontEnd du serveur Shiny
    - Créer une interface avec un panneau latéral et un panneau principal
