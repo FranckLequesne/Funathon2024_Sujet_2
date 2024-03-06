@@ -1,4 +1,4 @@
-# Funathon 2024 - Sujet 2
+# Funathon 2024 - Sujet 2 :star:
 
 Réaliser un tableau de bord mensuel du trafic aérien en se servant directement sur data.gouv.fr
 
